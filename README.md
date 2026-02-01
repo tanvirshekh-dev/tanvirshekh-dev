@@ -3,8 +3,20 @@
 
 <h1 align="start">Hi 👋, I'm Md. Tanvir Shekh</h1>
 
-💫 About Me:
+##💫 About Me:
 I’m a Front End Web developer passionate about creating clean UI, smooth user experiences, and responsive web applications with React, JavaScript, and modern CSS frameworks. Eager to learn, improve, and work on real-world projects. Most of the time I work with react, javascript but some technologies I enjoy to learn about software automation.
+
+
+- 🔭 I’m currently working on [Pet care Services](https://pet-house-shope.netlify.app/)
+
+- 🌱 I’m currently learning **Firebase, Node.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tanvirshekh-dev](https://github.com/tanvirshekh-dev)
+
+- 📫 How to reach me **tanvirshekh.dev@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B6OKYWgfnT15CPg8QFQhSBfi1lTTfbX8/view?usp=sharing](https://drive.google.com/file/d/1B6OKYWgfnT15CPg8QFQhSBfi1lTTfbX8/view?usp=sharing)
+
 
 
 ## 🌐 Socials:
