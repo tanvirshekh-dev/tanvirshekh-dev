@@ -1,5 +1,7 @@
 
-![Web developer](https://media.licdn.com/dms/image/v2/D5616AQFSmBH4N9arVQ/profile-displaybackgroundimage-shrink_350_1400/B56ZwEtygOJoAY-/0/1769605644053?e=1771459200&v=beta&t=UNGe7KDhyHK1axQ7Dv-mfZpRu2ewivHL_VMZzNA5jMs)
+<div align="center">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHMD92jh5VbAg/profile-displaybackgroundimage-shrink_350_1400/B56ZwjD5uTGYAg-/0/1770114753598?e=1771459200&v=beta&t=Po2EXuLqTEru5j15LeFGC6y_H6oEV8wWZuONVmhEezc" align="center" style="width: 100%" />
+</div> 
 
 <h1 align="start">Hi 👋, I'm Md. Tanvir Shekh</h1>
 
