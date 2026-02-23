@@ -9,7 +9,7 @@
 I’m a Front End Web developer passionate about creating clean UI, smooth user experiences, and responsive web applications with React, JavaScript, and modern CSS frameworks. Eager to learn, improve, and work on real-world projects. Most of the time I work with react, javascript but some technologies I enjoy to learn about software automation.
 
 
-- 🔭 I’m currently working on [Pet care Services](https://pet-house-shope.netlify.app/)
+- 🔭 I’m currently working on [Smart Deals Project](https://smart-deals-project.netlify.app/)
 
 - 🌱 I’m currently learning **Firebase, Node.js**
 
